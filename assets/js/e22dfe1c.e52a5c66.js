@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkearthnut_doc_of_docusaurus=globalThis.webpackChunkearthnut_doc_of_docusaurus||[]).push([[5663],{18055(u,e,t){t.r(e),t.d(e,{default:()=>o});var s=t(79139),a=t(56730);function o(){return(0,a.jsx)(s.rd,{to:"/edge-extension/reset-new-tab"})}}}]);
