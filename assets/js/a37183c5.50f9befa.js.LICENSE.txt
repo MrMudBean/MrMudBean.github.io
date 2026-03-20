@@ -1,0 +1,12 @@
+/**
+ * @packageDocumentation
+ * @module @enr/core
+ * @file core.ts
+ * @description _
+ * @author MrMudBean <Mr.MudBean@outlook.com>
+ * @license MIT
+ * @copyright 2026 ©️ MrMudBean
+ * @since 2026-01-28 13:03
+ * @version 2.0.0-alpha.0
+ * @lastModified 2026-02-02 11:38
+ */
