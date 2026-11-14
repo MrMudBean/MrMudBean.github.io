@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_doc_of_docusaurus=self.webpackChunkmain_doc_of_docusaurus||[]).push([["4211"],{41643(a){a.exports=JSON.parse('{"metadata":{"permalink":"/\u5EFA\u7AD9\u65E5\u5FD7","page":1,"postsPerPage":10,"totalPages":4,"totalCount":34,"nextPage":"/\u5EFA\u7AD9\u65E5\u5FD7/page/2","blogDescription":"Blog","blogTitle":"\u5EFA\u7AD9 \u{1F4C5}"}}')}}]);
